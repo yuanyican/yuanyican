@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on [Javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript).
+
+![](https://visitor-badge.glitch.me/badge?page_id=GoKu-gaga.GoKu-gaga)
