@@ -15,6 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+- 👨‍💻 All of my projects are available at [https://github.com/GoKu-gaga](https://github.com/GoKu-gaga)
 - 🔭 I’m currently working on [Javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript).
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoKu-gaga&layout=compact" alt="GoKu-gaga" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GoKu-gaga&show_icons=true" alt="GoKu-gaga" />
+</p>
 
 ![](https://visitor-badge.glitch.me/badge?page_id=GoKu-gaga.GoKu-gaga)
