@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 👨‍💻 All of my projects are available at [https://github.com/GoKu-gaga](https://github.com/yuanyican)
+- 👨‍💻 All of my projects are available at [https://github.com/yuanyican](https://github.com/yuanyican)
 - 🔭 I’m currently working on [Javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript).
 
 <p align="center">
