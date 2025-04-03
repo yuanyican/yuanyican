@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on [Javascript](https://developer.mozilla.org/zh-CN/docs/Web/JavaScript).
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GoKu-gaga&layout=compact" alt="GoKu-gaga" />
-  <img src="https://github-readme-stats.vercel.app/api?username=GoKu-gaga&show_icons=true" alt="GoKu-gaga" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanyican&layout=compact" alt="yuanyican" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yuanyican&show_icons=true" alt="yuanyican" />
 </p>
 
-![](https://visitor-badge.glitch.me/badge?page_id=GoKu-gaga.GoKu-gaga)
+![](https://visitor-badge.glitch.me/badge?page_id=yuanyican.yuanyican)
